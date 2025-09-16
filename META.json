@@ -1,0 +1,61 @@
+{
+  "category": "message-queues",
+  "created_date": "2025-09-15T22:48:57.255431",
+  "default_ports": [
+    80,
+    443,
+    11300
+  ],
+  "dependencies": [],
+  "description": "beanstalkd is a free and open-source work queue. Beanstalkd provides simple, fast work queue",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/message-queues/beanstalkd",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/message-queues/beanstalkd",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:57.255450",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "beanstalkd",
+  "repository_url": "https://github.com/howtomgr/beanstalkd",
+  "spec_version": "2.0",
+  "subcategory": "message-queues",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "message-queues",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "beanstalkd Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/message-queues/beanstalkd"
+}
